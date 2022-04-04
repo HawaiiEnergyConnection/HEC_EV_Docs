@@ -6,8 +6,6 @@ Enphase Viewer Node.js/Express API Implementation
 https://not-implemented.com
 ```
 
-NOTE: Each of the following categories outline what resources are available to internal services that use the HEC EnphaseViewer API.
-
 ## Enphase Viewer - Kumuhub Service
 
 ### GET - Search Enphase System_ID's by Address and Zipcode <br />
