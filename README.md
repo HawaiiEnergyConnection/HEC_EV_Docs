@@ -12,7 +12,7 @@ https://not-implemented.com
 
 > Request:
 > ```
-> /kumuhub_service/systems/system_id?address=12-345 example St&zipcode=12345
+> /kumuhub_service/systems/system_ids?address=12-345 example St&zipcode=12345
 > ```
 > Response 200 - json:
 > ```json
