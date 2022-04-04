@@ -64,7 +64,7 @@ https://not-implemented.com
 > ```
 > /kumuhub_service/systems/{system_id}/check_envoys
 > ```
-> Response 200 - json : (array: only active, malfunctioning envoys) 
+> Response 200 - json : (only active, malfunctioning envoys) 
 > ```json
 > [
 >     {
@@ -88,7 +88,7 @@ https://not-implemented.com
 > ```
 > /kumuhub_service/systems/{system_id}/check_all
 > ```
-> Response 200 - json:
+> Response 200 - json: (only active, malfunctioning envoys and microinverters)
 > ```json
 > {
 >     "envoys": [
